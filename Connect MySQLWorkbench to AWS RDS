@@ -1,0 +1,22 @@
+Started A Blog Post
+
+Part 1: Creating a MySQL DB Instance
+
+Part 1(a): Made changes to configuration enabling EC2 connection.
+           Change not yet taken affect so may be source of current problem *
+           
+Part 2: Connecting from MySQL Workbench
+
+Created my MySQL DB Instance withinAW AWS RDS
+Created a Database Schema within MySQL WorkBench
+
+----
+
+Still need to create a connection
+
+
+*Problem: 
+
+"Can't connect to mysql server on rds.amazonaws.com' (60)"
+
+https://aws.amazon.com/premiumsupport/knowledge-center/rds-cannot-connect/
