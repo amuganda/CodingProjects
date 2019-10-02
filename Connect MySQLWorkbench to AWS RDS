@@ -3,7 +3,8 @@ Started A Blog Post
 Part 1: Creating a MySQL DB Instance
 
 Part 1(a): Made changes to configuration enabling EC2 connection.
-           Change not yet taken affect so may be source of current problem *
+           Change not yet taken affect so may be source of current problem
+           ** Changes made successfully **
            
 Part 2: Connecting from MySQL Workbench
 
@@ -20,3 +21,13 @@ Still need to create a connection
 "Can't connect to mysql server on rds.amazonaws.com' (60)"
 
 https://aws.amazon.com/premiumsupport/knowledge-center/rds-cannot-connect/
+
+EC2 Dashboard - Security Groups
+
+https://eu-west-2.console.aws.amazon.com/ec2/home?region=eu-west-2#Home:
+
+View EC2 videos:
+
+https://aws.amazon.com/ec2/videos/
+
+
